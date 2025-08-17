@@ -1,3 +1,5 @@
+#The code was for the following competition: https://app.datacamp.com/learn/competitions/cleaning-data-skies
+
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
